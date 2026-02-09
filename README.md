@@ -1,3 +1,4 @@
+
 # Muslim Counter App
 
 A Flutter app designed to help Muslims count tasbeeh and track dhikr easily.
@@ -17,3 +18,6 @@ Clone the repository and run:
 flutter pub get
 flutter run
 ```
+
+ 
+
